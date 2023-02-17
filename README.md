@@ -139,9 +139,9 @@ The challenge I experienced is to edgiest the ethnicity on the line.
 I identified the process of adjusting the legend (Ethnicity) on the line. I attached the reference below.
 Right Click on one Data point --> It displays the data value --> Remove the number and hold the ethnicity --> Change the ‘Font’ and ‘Color’ --> Choose the same color of the line --> Edit the connections that are displayed.
 
-```
-Learning Checks: | I learnt to adjust the color and legends.
-```
+
+Learning Checks:  I learnt to adjust the color and legends.
+
 
 
 
@@ -302,10 +302,10 @@ To recreate the graph, following steps were executed.
 *Font*: | By right clicking on the labels I could choose the nearest font that matches the view. | Tableau Medium-9-Bold
 *Title*: | Right click and change title, adjust the font, Change the color, and make it bold | Left alignment (Manipulated)
 
-```
-Learning Checks: | I learnt to recreate multiple bar graphs, adjust formatting, change colors.
+
+Learning Checks: I learnt to recreate multiple bar graphs, adjust formatting, change colors.
 Implication: In Analysis  Show Mark Labels option can be selected to view the data point of each bar. That would give clear and complete comparison analysis.
-```
+
 
 
 
