@@ -97,14 +97,12 @@ Initially, I chose Excel spreadsheet to recreate the give line chart. The first 
 
 ##### Initial Chart:
 
-![alt text here](![Picture1](https://user-images.githubusercontent.com/122343182/219546388-32a351a9-eb3f-45d4-bcdd-79cef7658f53.png))
-
+![Picture1](https://user-images.githubusercontent.com/122343182/219548299-fa14247e-536c-4c17-a719-40dc0d439d34.png)
 
 ##### Final Chart:
 
 
-![alt text here](![Picture2](https://user-images.githubusercontent.com/122343182/219546408-e5402030-7559-418e-b03f-d7cac6208b02.png))
-
+![Picture2](https://user-images.githubusercontent.com/122343182/219548324-662fec1b-e573-446a-b067-347b1d427cd7.png)
 
 
 
@@ -216,14 +214,12 @@ The first recreated chart is as shown below.
 
 ##### Initial Chart:
 
-![alt text here](![TabealuQ2-1](https://user-images.githubusercontent.com/122343182/219546468-cc067e14-8c32-4882-a662-046dbcc9d13c.png))
-
+![TabealuQ2-1](https://user-images.githubusercontent.com/122343182/219548370-1830e0ae-6ff3-414d-8e25-283325c27eee.png)
 
 ##### Final Chart:
 
 
-![alt text here](![TabealuQ2-2](https://user-images.githubusercontent.com/122343182/219546482-de67f5b9-36f5-4d25-a93d-65e47ec7d90a.png))
-
+![TabealuQ2-2](https://user-images.githubusercontent.com/122343182/219548400-8f383a34-2ce3-4542-9aec-01a4ba25456f.png)
 
  Idiom:      | Bar Chart  [ Small Multiples]  
  ----------- | --------------------------- 
