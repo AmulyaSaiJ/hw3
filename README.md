@@ -1,4 +1,3 @@
-# hw3
 ---
 title: "Homework 3"
 author: "Amulya Sai Jonnalagadda"
